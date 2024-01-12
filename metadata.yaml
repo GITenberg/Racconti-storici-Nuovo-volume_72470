@@ -1,0 +1,42 @@
+_repo: Racconti-storici-Nuovo-volume_72470
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bazzoni, Giambattista
+    aliases:
+    - Bazzoni, Giovanni Battista
+    - Bazzoni, G. B. (Giambattista)
+    birthdate: 1803
+    deathdate: 1850
+    gutenberg_agent_id: '32453'
+    url: http://www.gutenberg.org/2009/agents/32453
+    wikipedia: https://it.wikipedia.org/wiki/Giambattista_Bazzoni
+description: ''
+gutenberg_issued: '2023-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72470'
+language: it
+pgterms:marc904: http://www.urfm.braidense.it/rd/Z+_16_012.pdf
+pgterms:marc905: 20211102094529bazzoni
+pgterms:marc906: '1839'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bManini, $c1839.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Milano nell'anno 305 dell'era -- Un Episodio dell'assedio del Barbarossa
+  -- I Guelfi dell'Imagna o il Castello di Clanezzo -- Edemondo ed Adelasia o la Torre
+  di Gombito -- La Biscia Amorosa -- Campo di Battaglia sul Duomo di Milano -- Avventure
+  in un Viaggio per la Valdoppia.
+title: Racconti storici - Nuovo volume
+url: http://www.gutenberg.org/ebooks/72470
